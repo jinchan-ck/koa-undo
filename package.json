@@ -1,6 +1,6 @@
 {
   "name": "koa-undo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enable undo feature for all the http request.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,5 @@
   },
   "author": "Sweetvvck <sweetvvck@gmail.com> (http://blog.csdn.net/sweetvvck)",
   "license": "MIT",
-  "dependencies": {
-    "co": "^4.5.2"
-  }
+  "dependencies": {}
 }
