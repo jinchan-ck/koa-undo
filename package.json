@@ -1,0 +1,25 @@
+{
+  "name": "koa-undo",
+  "version": "1.0.0",
+  "description": "Enable undo feature for all the http request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony-generators -t 5000"
+  },
+  "keywords": [
+    "koa",
+    "undo"
+  ],
+  "devDependencies": {
+    "koa": "*",
+    "mocha": "^1.12.0",
+    "koa-route": "^2.4.1",
+    "supertest": "^0.15.0",
+    "koa-formidable": "^1.0.0"
+  },
+  "author": "Sweetvvck <sweetvvck@gmail.com> (http://blog.csdn.net/sweetvvck)",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.5.2"
+  }
+}
