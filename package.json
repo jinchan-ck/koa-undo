@@ -1,11 +1,19 @@
 {
   "name": "koa-undo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enable undo feature for all the http request.",
   "main": "index.js",
   "scripts": {
     "test": "mocha --harmony-generators -t 5000"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sweetvvck/koa-undo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sweetvvck/koa-undo/issues"
+  },
+  "homepage": "https://github.com/sweetvvck/koa-undo",
   "keywords": [
     "koa",
     "undo"
@@ -19,7 +27,5 @@
   },
   "author": "Sweetvvck <sweetvvck@gmail.com> (http://blog.csdn.net/sweetvvck)",
   "license": "MIT",
-  "dependencies": {
-    "co": "^4.5.2"
-  }
+  "dependencies": {}
 }
